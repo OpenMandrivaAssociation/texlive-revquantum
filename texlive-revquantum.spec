@@ -1,6 +1,6 @@
 Name:		texlive-revquantum
 Version:	43505
-Release:	1
+Release:	2
 Summary:	Hacks to make writing quantum papers for revtex4-1 less painful
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/revquantum
